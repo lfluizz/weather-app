@@ -19,9 +19,11 @@ Aplicação simples de clima que consome a API da OpenWeather para exibir inform
 
 ## Preview
 
-![preview1](./screenshots/preview1.png)
-![preview2](./screenshots/preview2.png)
+### Tela inicial
+![Tela inicial](./screenshots/preview1.png)
 
+### Resultado da busca
+![Resultado](./screenshots/preview2.png)
 
 ## Como usar
 
