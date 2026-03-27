@@ -20,10 +20,10 @@ Aplicação simples de clima que consome a API da OpenWeather para exibir inform
 ## Preview
 
 ### Tela inicial
-![Tela inicial](./screenshots/preview1.png?v=2)
+![preview](./screenshots/preview1.png?v=2)
 
 ### Resultado da busca
-![Resultado](./screenshots/preview2.png?v=2)
+![preview](./screenshots/preview2.png?v=2)
 
 ## Como usar
 
